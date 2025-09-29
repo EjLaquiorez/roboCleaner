@@ -118,3 +118,5 @@ This project is useful for:
 ## License
 
 This project is open-source and available under the **MIT License**.
+
+---

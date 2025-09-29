@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\roboCleaner\bin\Debug\net8.0\roboCleaner.exe
+C:\Users\Administrator\Desktop\roboCleaner\bin\Debug\net8.0\roboCleaner.deps.json
+C:\Users\Administrator\Desktop\roboCleaner\bin\Debug\net8.0\roboCleaner.runtimeconfig.json
+C:\Users\Administrator\Desktop\roboCleaner\bin\Debug\net8.0\roboCleaner.dll
+C:\Users\Administrator\Desktop\roboCleaner\bin\Debug\net8.0\roboCleaner.pdb
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.sourcelink.json
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.dll
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\refint\roboCleaner.dll
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.pdb
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\roboCleaner.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\roboCleaner\obj\Debug\net8.0\ref\roboCleaner.dll
